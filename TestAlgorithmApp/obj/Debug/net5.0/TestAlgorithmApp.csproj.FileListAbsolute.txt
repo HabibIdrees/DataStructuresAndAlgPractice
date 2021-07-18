@@ -1,0 +1,16 @@
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.exe
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.deps.json
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.runtimeconfig.json
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.runtimeconfig.dev.json
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.dll
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\ref\TestAlgorithmApp.dll
+C:\Users\habib\source\repos\TestAlgorithmApp\bin\Debug\net5.0\TestAlgorithmApp.pdb
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.csproj.AssemblyReference.cache
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.AssemblyInfoInputs.cache
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.AssemblyInfo.cs
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.csproj.CoreCompileInputs.cache
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.dll
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\ref\TestAlgorithmApp.dll
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.pdb
+C:\Users\habib\source\repos\TestAlgorithmApp\obj\Debug\net5.0\TestAlgorithmApp.genruntimeconfig.cache
